@@ -27,7 +27,9 @@ Note the programme is designed to send 13wpm characters, but these are slowed do
 Farnsworth method to whatever speed you choose at the prompt.
 
 If the filename you choose does not exist, the script will return an error. Otherwise the radio
-should change to FM-D, key up, send the Morse, key down and return to FM.
+should change to FM-D, key up, send the Morse, key down and return to FM. Also in the repo are 
+three plain text files - a, b and c. These are sample files I've used for tx-ing and give you
+an idea of how you can set the files out.
 
 If you've got any questions or queries, please contact me. I am not the writer of the 'morse'
 software so please direct any 'morse' related queries directly to the team there. This script is
